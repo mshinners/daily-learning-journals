@@ -1,0 +1,3 @@
+# LJ Code 201 - Day 20
+
+Today I learned how to present a project. I Learned the importance of doing a technical walkthrough, and preparing your talking points. Had we not done this, our App would have looked unfinished and our presentation would have fallen flat. I learned how to reexamine our code with fresh eyes and how to better clean it up. And lastly, I learned how to bug-hunt! We play-tested quite a bit and found a few issues that came up that were quickly repairable that made the code better. I learned how to learn. I learned that I can continue to work on a thing, even if I dont understand it, and through repetition, I am able to learn more and more.
